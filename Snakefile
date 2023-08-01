@@ -146,7 +146,6 @@ rule clean:
 rule clobber:
     shell:
         """
-        rm -rf data
         rm -rf sars-cov-2_dataset
         rm -rf results auspice
         """
