@@ -1,0 +1,1001 @@
+{
+  "genes": {
+    "E": {
+      "index": 4,
+      "id": "E",
+      "name": "E",
+      "cdses": [
+        {
+          "id": "cds-from-gene-E",
+          "name": "E",
+          "product": "E",
+          "segments": [
+            {
+              "index": 4,
+              "id": "cds-segment-from-gene-E",
+              "name": "E",
+              "range": {
+                "begin": 26244,
+                "end": 26472
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 228
+              },
+              "landmark": null,
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 0,
+              "phase": 0,
+              "exceptions": [],
+              "attributes": {
+                "gene_name": [
+                  "E"
+                ]
+              },
+              "compatIsGene": true,
+              "color": null
+            }
+          ],
+          "proteins": [
+            {
+              "id": "protein-from-gene-E",
+              "name": "E",
+              "product": "E",
+              "segments": [
+                {
+                  "id": "protein-segment-from-gene-E",
+                  "name": "E",
+                  "range": {
+                    "begin": 26244,
+                    "end": 26472
+                  },
+                  "exceptions": [],
+                  "attributes": {
+                    "gene_name": [
+                      "E"
+                    ]
+                  },
+                  "compatIsCds": true,
+                  "compatIsGene": true,
+                  "color": null
+                }
+              ],
+              "color": null
+            }
+          ],
+          "exceptions": [],
+          "attributes": {
+            "gene_name": [
+              "E"
+            ]
+          },
+          "compatIsGene": true,
+          "color": null
+        }
+      ],
+      "exceptions": [],
+      "attributes": {
+        "gene_name": [
+          "E"
+        ]
+      },
+      "compatIsCds": false,
+      "color": null
+    },
+    "M": {
+      "index": 5,
+      "id": "M",
+      "name": "M",
+      "cdses": [
+        {
+          "id": "cds-from-gene-M",
+          "name": "M",
+          "product": "M",
+          "segments": [
+            {
+              "index": 5,
+              "id": "cds-segment-from-gene-M",
+              "name": "M",
+              "range": {
+                "begin": 26522,
+                "end": 27191
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 669
+              },
+              "landmark": null,
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 2,
+              "phase": 0,
+              "exceptions": [],
+              "attributes": {
+                "gene_name": [
+                  "M"
+                ]
+              },
+              "compatIsGene": true,
+              "color": null
+            }
+          ],
+          "proteins": [
+            {
+              "id": "protein-from-gene-M",
+              "name": "M",
+              "product": "M",
+              "segments": [
+                {
+                  "id": "protein-segment-from-gene-M",
+                  "name": "M",
+                  "range": {
+                    "begin": 26522,
+                    "end": 27191
+                  },
+                  "exceptions": [],
+                  "attributes": {
+                    "gene_name": [
+                      "M"
+                    ]
+                  },
+                  "compatIsCds": true,
+                  "compatIsGene": true,
+                  "color": null
+                }
+              ],
+              "color": null
+            }
+          ],
+          "exceptions": [],
+          "attributes": {
+            "gene_name": [
+              "M"
+            ]
+          },
+          "compatIsGene": true,
+          "color": null
+        }
+      ],
+      "exceptions": [],
+      "attributes": {
+        "gene_name": [
+          "M"
+        ]
+      },
+      "compatIsCds": false,
+      "color": null
+    },
+    "N": {
+      "index": 10,
+      "id": "N",
+      "name": "N",
+      "cdses": [
+        {
+          "id": "cds-from-gene-N",
+          "name": "N",
+          "product": "N",
+          "segments": [
+            {
+              "index": 10,
+              "id": "cds-segment-from-gene-N",
+              "name": "N",
+              "range": {
+                "begin": 28273,
+                "end": 29533
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 1260
+              },
+              "landmark": null,
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 1,
+              "phase": 0,
+              "exceptions": [],
+              "attributes": {
+                "gene_name": [
+                  "N"
+                ]
+              },
+              "compatIsGene": true,
+              "color": null
+            }
+          ],
+          "proteins": [
+            {
+              "id": "protein-from-gene-N",
+              "name": "N",
+              "product": "N",
+              "segments": [
+                {
+                  "id": "protein-segment-from-gene-N",
+                  "name": "N",
+                  "range": {
+                    "begin": 28273,
+                    "end": 29533
+                  },
+                  "exceptions": [],
+                  "attributes": {
+                    "gene_name": [
+                      "N"
+                    ]
+                  },
+                  "compatIsCds": true,
+                  "compatIsGene": true,
+                  "color": null
+                }
+              ],
+              "color": null
+            }
+          ],
+          "exceptions": [],
+          "attributes": {
+            "gene_name": [
+              "N"
+            ]
+          },
+          "compatIsGene": true,
+          "color": null
+        }
+      ],
+      "exceptions": [],
+      "attributes": {
+        "gene_name": [
+          "N"
+        ]
+      },
+      "compatIsCds": false,
+      "color": null
+    },
+    "ORF1a": {
+      "index": 0,
+      "id": "ORF1a",
+      "name": "ORF1a",
+      "cdses": [
+        {
+          "id": "cds-from-gene-ORF1a",
+          "name": "ORF1a",
+          "product": "ORF1a",
+          "segments": [
+            {
+              "index": 0,
+              "id": "cds-segment-from-gene-ORF1a",
+              "name": "ORF1a",
+              "range": {
+                "begin": 265,
+                "end": 13468
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 13203
+              },
+              "landmark": null,
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 1,
+              "phase": 0,
+              "exceptions": [],
+              "attributes": {
+                "gene_name": [
+                  "ORF1a"
+                ]
+              },
+              "compatIsGene": true,
+              "color": null
+            }
+          ],
+          "proteins": [
+            {
+              "id": "protein-from-gene-ORF1a",
+              "name": "ORF1a",
+              "product": "ORF1a",
+              "segments": [
+                {
+                  "id": "protein-segment-from-gene-ORF1a",
+                  "name": "ORF1a",
+                  "range": {
+                    "begin": 265,
+                    "end": 13468
+                  },
+                  "exceptions": [],
+                  "attributes": {
+                    "gene_name": [
+                      "ORF1a"
+                    ]
+                  },
+                  "compatIsCds": true,
+                  "compatIsGene": true,
+                  "color": null
+                }
+              ],
+              "color": null
+            }
+          ],
+          "exceptions": [],
+          "attributes": {
+            "gene_name": [
+              "ORF1a"
+            ]
+          },
+          "compatIsGene": true,
+          "color": null
+        }
+      ],
+      "exceptions": [],
+      "attributes": {
+        "gene_name": [
+          "ORF1a"
+        ]
+      },
+      "compatIsCds": false,
+      "color": null
+    },
+    "ORF1b": {
+      "index": 1,
+      "id": "ORF1b",
+      "name": "ORF1b",
+      "cdses": [
+        {
+          "id": "cds-from-gene-ORF1b",
+          "name": "ORF1b",
+          "product": "ORF1b",
+          "segments": [
+            {
+              "index": 1,
+              "id": "cds-segment-from-gene-ORF1b",
+              "name": "ORF1b",
+              "range": {
+                "begin": 13467,
+                "end": 21555
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 8088
+              },
+              "landmark": null,
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 0,
+              "phase": 0,
+              "exceptions": [],
+              "attributes": {
+                "gene_name": [
+                  "ORF1b"
+                ]
+              },
+              "compatIsGene": true,
+              "color": null
+            }
+          ],
+          "proteins": [
+            {
+              "id": "protein-from-gene-ORF1b",
+              "name": "ORF1b",
+              "product": "ORF1b",
+              "segments": [
+                {
+                  "id": "protein-segment-from-gene-ORF1b",
+                  "name": "ORF1b",
+                  "range": {
+                    "begin": 13467,
+                    "end": 21555
+                  },
+                  "exceptions": [],
+                  "attributes": {
+                    "gene_name": [
+                      "ORF1b"
+                    ]
+                  },
+                  "compatIsCds": true,
+                  "compatIsGene": true,
+                  "color": null
+                }
+              ],
+              "color": null
+            }
+          ],
+          "exceptions": [],
+          "attributes": {
+            "gene_name": [
+              "ORF1b"
+            ]
+          },
+          "compatIsGene": true,
+          "color": null
+        }
+      ],
+      "exceptions": [],
+      "attributes": {
+        "gene_name": [
+          "ORF1b"
+        ]
+      },
+      "compatIsCds": false,
+      "color": null
+    },
+    "ORF3a": {
+      "index": 2,
+      "id": "ORF3a",
+      "name": "ORF3a",
+      "cdses": [
+        {
+          "id": "cds-from-gene-ORF3a",
+          "name": "ORF3a",
+          "product": "ORF3a",
+          "segments": [
+            {
+              "index": 2,
+              "id": "cds-segment-from-gene-ORF3a",
+              "name": "ORF3a",
+              "range": {
+                "begin": 25392,
+                "end": 26220
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 828
+              },
+              "landmark": null,
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 0,
+              "phase": 0,
+              "exceptions": [],
+              "attributes": {
+                "gene_name": [
+                  "ORF3a"
+                ]
+              },
+              "compatIsGene": true,
+              "color": null
+            }
+          ],
+          "proteins": [
+            {
+              "id": "protein-from-gene-ORF3a",
+              "name": "ORF3a",
+              "product": "ORF3a",
+              "segments": [
+                {
+                  "id": "protein-segment-from-gene-ORF3a",
+                  "name": "ORF3a",
+                  "range": {
+                    "begin": 25392,
+                    "end": 26220
+                  },
+                  "exceptions": [],
+                  "attributes": {
+                    "gene_name": [
+                      "ORF3a"
+                    ]
+                  },
+                  "compatIsCds": true,
+                  "compatIsGene": true,
+                  "color": null
+                }
+              ],
+              "color": null
+            }
+          ],
+          "exceptions": [],
+          "attributes": {
+            "gene_name": [
+              "ORF3a"
+            ]
+          },
+          "compatIsGene": true,
+          "color": null
+        }
+      ],
+      "exceptions": [],
+      "attributes": {
+        "gene_name": [
+          "ORF3a"
+        ]
+      },
+      "compatIsCds": false,
+      "color": null
+    },
+    "ORF6": {
+      "index": 6,
+      "id": "ORF6",
+      "name": "ORF6",
+      "cdses": [
+        {
+          "id": "cds-from-gene-ORF6",
+          "name": "ORF6",
+          "product": "ORF6",
+          "segments": [
+            {
+              "index": 6,
+              "id": "cds-segment-from-gene-ORF6",
+              "name": "ORF6",
+              "range": {
+                "begin": 27201,
+                "end": 27387
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 186
+              },
+              "landmark": null,
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 0,
+              "phase": 0,
+              "exceptions": [],
+              "attributes": {
+                "gene_name": [
+                  "ORF6"
+                ]
+              },
+              "compatIsGene": true,
+              "color": null
+            }
+          ],
+          "proteins": [
+            {
+              "id": "protein-from-gene-ORF6",
+              "name": "ORF6",
+              "product": "ORF6",
+              "segments": [
+                {
+                  "id": "protein-segment-from-gene-ORF6",
+                  "name": "ORF6",
+                  "range": {
+                    "begin": 27201,
+                    "end": 27387
+                  },
+                  "exceptions": [],
+                  "attributes": {
+                    "gene_name": [
+                      "ORF6"
+                    ]
+                  },
+                  "compatIsCds": true,
+                  "compatIsGene": true,
+                  "color": null
+                }
+              ],
+              "color": null
+            }
+          ],
+          "exceptions": [],
+          "attributes": {
+            "gene_name": [
+              "ORF6"
+            ]
+          },
+          "compatIsGene": true,
+          "color": null
+        }
+      ],
+      "exceptions": [],
+      "attributes": {
+        "gene_name": [
+          "ORF6"
+        ]
+      },
+      "compatIsCds": false,
+      "color": null
+    },
+    "ORF7a": {
+      "index": 7,
+      "id": "ORF7a",
+      "name": "ORF7a",
+      "cdses": [
+        {
+          "id": "cds-from-gene-ORF7a",
+          "name": "ORF7a",
+          "product": "ORF7a",
+          "segments": [
+            {
+              "index": 7,
+              "id": "cds-segment-from-gene-ORF7a",
+              "name": "ORF7a",
+              "range": {
+                "begin": 27393,
+                "end": 27759
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 366
+              },
+              "landmark": null,
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 0,
+              "phase": 0,
+              "exceptions": [],
+              "attributes": {
+                "gene_name": [
+                  "ORF7a"
+                ]
+              },
+              "compatIsGene": true,
+              "color": null
+            }
+          ],
+          "proteins": [
+            {
+              "id": "protein-from-gene-ORF7a",
+              "name": "ORF7a",
+              "product": "ORF7a",
+              "segments": [
+                {
+                  "id": "protein-segment-from-gene-ORF7a",
+                  "name": "ORF7a",
+                  "range": {
+                    "begin": 27393,
+                    "end": 27759
+                  },
+                  "exceptions": [],
+                  "attributes": {
+                    "gene_name": [
+                      "ORF7a"
+                    ]
+                  },
+                  "compatIsCds": true,
+                  "compatIsGene": true,
+                  "color": null
+                }
+              ],
+              "color": null
+            }
+          ],
+          "exceptions": [],
+          "attributes": {
+            "gene_name": [
+              "ORF7a"
+            ]
+          },
+          "compatIsGene": true,
+          "color": null
+        }
+      ],
+      "exceptions": [],
+      "attributes": {
+        "gene_name": [
+          "ORF7a"
+        ]
+      },
+      "compatIsCds": false,
+      "color": null
+    },
+    "ORF7b": {
+      "index": 8,
+      "id": "ORF7b",
+      "name": "ORF7b",
+      "cdses": [
+        {
+          "id": "cds-from-gene-ORF7b",
+          "name": "ORF7b",
+          "product": "ORF7b",
+          "segments": [
+            {
+              "index": 8,
+              "id": "cds-segment-from-gene-ORF7b",
+              "name": "ORF7b",
+              "range": {
+                "begin": 27755,
+                "end": 27887
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 132
+              },
+              "landmark": null,
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 2,
+              "phase": 0,
+              "exceptions": [],
+              "attributes": {
+                "gene_name": [
+                  "ORF7b"
+                ]
+              },
+              "compatIsGene": true,
+              "color": null
+            }
+          ],
+          "proteins": [
+            {
+              "id": "protein-from-gene-ORF7b",
+              "name": "ORF7b",
+              "product": "ORF7b",
+              "segments": [
+                {
+                  "id": "protein-segment-from-gene-ORF7b",
+                  "name": "ORF7b",
+                  "range": {
+                    "begin": 27755,
+                    "end": 27887
+                  },
+                  "exceptions": [],
+                  "attributes": {
+                    "gene_name": [
+                      "ORF7b"
+                    ]
+                  },
+                  "compatIsCds": true,
+                  "compatIsGene": true,
+                  "color": null
+                }
+              ],
+              "color": null
+            }
+          ],
+          "exceptions": [],
+          "attributes": {
+            "gene_name": [
+              "ORF7b"
+            ]
+          },
+          "compatIsGene": true,
+          "color": null
+        }
+      ],
+      "exceptions": [],
+      "attributes": {
+        "gene_name": [
+          "ORF7b"
+        ]
+      },
+      "compatIsCds": false,
+      "color": null
+    },
+    "ORF8": {
+      "index": 9,
+      "id": "ORF8",
+      "name": "ORF8",
+      "cdses": [
+        {
+          "id": "cds-from-gene-ORF8",
+          "name": "ORF8",
+          "product": "ORF8",
+          "segments": [
+            {
+              "index": 9,
+              "id": "cds-segment-from-gene-ORF8",
+              "name": "ORF8",
+              "range": {
+                "begin": 27893,
+                "end": 28259
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 366
+              },
+              "landmark": null,
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 2,
+              "phase": 0,
+              "exceptions": [],
+              "attributes": {
+                "gene_name": [
+                  "ORF8"
+                ]
+              },
+              "compatIsGene": true,
+              "color": null
+            }
+          ],
+          "proteins": [
+            {
+              "id": "protein-from-gene-ORF8",
+              "name": "ORF8",
+              "product": "ORF8",
+              "segments": [
+                {
+                  "id": "protein-segment-from-gene-ORF8",
+                  "name": "ORF8",
+                  "range": {
+                    "begin": 27893,
+                    "end": 28259
+                  },
+                  "exceptions": [],
+                  "attributes": {
+                    "gene_name": [
+                      "ORF8"
+                    ]
+                  },
+                  "compatIsCds": true,
+                  "compatIsGene": true,
+                  "color": null
+                }
+              ],
+              "color": null
+            }
+          ],
+          "exceptions": [],
+          "attributes": {
+            "gene_name": [
+              "ORF8"
+            ]
+          },
+          "compatIsGene": true,
+          "color": null
+        }
+      ],
+      "exceptions": [],
+      "attributes": {
+        "gene_name": [
+          "ORF8"
+        ]
+      },
+      "compatIsCds": false,
+      "color": null
+    },
+    "ORF9b": {
+      "index": 11,
+      "id": "ORF9b",
+      "name": "ORF9b",
+      "cdses": [
+        {
+          "id": "cds-from-gene-ORF9b",
+          "name": "ORF9b",
+          "product": "ORF9b",
+          "segments": [
+            {
+              "index": 11,
+              "id": "cds-segment-from-gene-ORF9b",
+              "name": "ORF9b",
+              "range": {
+                "begin": 28283,
+                "end": 28577
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 294
+              },
+              "landmark": null,
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 2,
+              "phase": 0,
+              "exceptions": [],
+              "attributes": {
+                "gene_name": [
+                  "ORF9b"
+                ]
+              },
+              "compatIsGene": true,
+              "color": null
+            }
+          ],
+          "proteins": [
+            {
+              "id": "protein-from-gene-ORF9b",
+              "name": "ORF9b",
+              "product": "ORF9b",
+              "segments": [
+                {
+                  "id": "protein-segment-from-gene-ORF9b",
+                  "name": "ORF9b",
+                  "range": {
+                    "begin": 28283,
+                    "end": 28577
+                  },
+                  "exceptions": [],
+                  "attributes": {
+                    "gene_name": [
+                      "ORF9b"
+                    ]
+                  },
+                  "compatIsCds": true,
+                  "compatIsGene": true,
+                  "color": null
+                }
+              ],
+              "color": null
+            }
+          ],
+          "exceptions": [],
+          "attributes": {
+            "gene_name": [
+              "ORF9b"
+            ]
+          },
+          "compatIsGene": true,
+          "color": null
+        }
+      ],
+      "exceptions": [],
+      "attributes": {
+        "gene_name": [
+          "ORF9b"
+        ]
+      },
+      "compatIsCds": false,
+      "color": null
+    },
+    "S": {
+      "index": 3,
+      "id": "S",
+      "name": "S",
+      "cdses": [
+        {
+          "id": "cds-from-gene-S",
+          "name": "S",
+          "product": "S",
+          "segments": [
+            {
+              "index": 3,
+              "id": "cds-segment-from-gene-S",
+              "name": "S",
+              "range": {
+                "begin": 21562,
+                "end": 25384
+              },
+              "rangeLocal": {
+                "begin": 0,
+                "end": 3822
+              },
+              "landmark": null,
+              "wrappingPart": "non-wrapping",
+              "strand": "+",
+              "frame": 1,
+              "phase": 0,
+              "exceptions": [],
+              "attributes": {
+                "gene_name": [
+                  "S"
+                ]
+              },
+              "compatIsGene": true,
+              "color": null
+            }
+          ],
+          "proteins": [
+            {
+              "id": "protein-from-gene-S",
+              "name": "S",
+              "product": "S",
+              "segments": [
+                {
+                  "id": "protein-segment-from-gene-S",
+                  "name": "S",
+                  "range": {
+                    "begin": 21562,
+                    "end": 25384
+                  },
+                  "exceptions": [],
+                  "attributes": {
+                    "gene_name": [
+                      "S"
+                    ]
+                  },
+                  "compatIsCds": true,
+                  "compatIsGene": true,
+                  "color": null
+                }
+              ],
+              "color": null
+            }
+          ],
+          "exceptions": [],
+          "attributes": {
+            "gene_name": [
+              "S"
+            ]
+          },
+          "compatIsGene": true,
+          "color": null
+        }
+      ],
+      "exceptions": [],
+      "attributes": {
+        "gene_name": [
+          "S"
+        ]
+      },
+      "compatIsCds": false,
+      "color": null
+    }
+  }
+}
+
