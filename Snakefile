@@ -3,6 +3,10 @@ genemapv3 = "~/Projects/nextstrain/nextclade_dev/target/release/genemap"
 
 genes = ["E", "M", "N", "ORF1a", "ORF1b", "ORF3a", "ORF6", "ORF7a", "ORF7b", "ORF8", "ORF9b", "S"]
 
+rule all:
+    input:
+        "auspice/tree.json"
+
 
 rule get_nextclade_dataset:
     output:
@@ -48,11 +52,15 @@ rule nextclade:
         sequences = "data/sequences.fasta.xz",
         dataset = directory("sars-cov-2_dataset")
     output:
-        directory("results")
+        "results/nextclade.aligned.fasta",
+        "results/nextclade.tsv",
+        "results/nextclade.nwk"
+    params:
+        out_dir = "results"
     threads: 4
     shell:
         """
-        {nextcladev3} run -D {input.dataset} -j {threads} --output-all {output} {input.sequences}
+        {nextcladev3} run -D {input.dataset} -j {threads} --output-all {params.out_dir} {input.sequences}
         """
 
 rule prune:
@@ -126,4 +134,19 @@ rule export:
         augur export v2 --tree {input.tree} --node-data {input.node_data} --metadata {input.metadata} \
                 --lat-longs data/lat_longs.tsv --color-by-metadata Nextstrain_clade pango_lineage \
                 --auspice-config data/auspice_config.json --output {output}
+        """
+
+
+rule clean:
+    shell:
+        """
+        rm -rf results auspice
+        """
+
+rule clobber:
+    shell:
+        """
+        rm -rf data
+        rm -rf sars-cov-2_dataset
+        rm -rf results auspice
         """
